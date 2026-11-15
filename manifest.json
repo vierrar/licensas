@@ -1,0 +1,11 @@
+{
+  "updatedAt": "2026-11-14T20:00:00Z",
+  "licenses": [
+    {
+      "key": "LOJA-MATRIZ-2026",
+      "storeName": "Loja do Cliente A",
+      "status": "active",
+      "expiresAt": "2027-12-31"
+    }
+  ]
+}
