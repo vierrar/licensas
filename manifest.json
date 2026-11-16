@@ -1,13 +1,14 @@
 {
-  "updatedAt": "2026-11-16T20:09:54.061Z",
+  "updatedAt": "2026-11-16T20:15:26.329Z",
   "licenses": [
     {
       "key": "KJSKAJSDKAJSDPOJ",
-      "storeName": "Unidade Principal",
+      "storeName": "Unidade Principal - Irmaos material construcao",
       "status": "active",
       "plan": "Profissional PDV",
-      "expiresAt": "2026-11-28",
+      "expiresAt": "28-11-2026",
       "maxTerminals": 5,
+      "authorizedHwids": [],
       "notes": "Licença ativa"
     }
   ]
