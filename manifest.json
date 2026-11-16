@@ -8,7 +8,7 @@
       "plan": "Profissional PDV",
       "expiresAt": "28-11-2026",
       "maxTerminals": 5,
-      "authorizedHwids": ["ffb1e8d308c0a16a84357f01847f80af929e9ba7cf14b016f1d57754d93b7347"],
+      "authorizedHwids": [ffb1e8d308c0a16a84357f01847f80af929e9ba7cf14b016f1d57754d93b7347],
       "notes": "Licença ativa"
     }
   ]
