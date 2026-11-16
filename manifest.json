@@ -1,14 +1,16 @@
 {
-  "updatedAt": "2026-11-16T20:15:26.329Z",
-  "licenses": [
-    {
-      "key": "KJSKAJSDKAJSDPOJ",
-      "storeName": "Unidade Principal - Irmaos material construcao",
-      "status": "active",
-      "plan": "Profissional PDV",
-      "expiresAt": "15-11-2026",
-      "maxTerminals": 5,
-      "notes": "Licença ativa"
-    }
-  ]
+  "v": 1,
+  "licenseId": "LIC-TESTE-01",
+  "keyHash": "03b8df5ce21a98d2fdbe9c18a33316603d7ba962f708db1111f712c74dd53979",
+  "storeName": "Loja Teste AltCaixa",
+  "plan": "Profissional PDV",
+  "status": "active",
+  "maxDevices": 4,
+  "maxTerminals": 3,
+  "maxOfflineDays": null,
+  "allowedDevices": [],
+  "expiresAt": null,
+  "seq": 1,
+  "updatedAt": "2026-11-16T21:21:33.760Z",
+  "signature": "BMIy3hWhktPE2anCmbwoXwc6P2LeRAGnDjbySbJutJUtzg8nhWIznUv7xXUM6-wAxU2G8UClh9EOQVFwX4iMCw"
 }
