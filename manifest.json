@@ -1,11 +1,14 @@
 {
-  "updatedAt": "2026-11-14T20:00:00Z",
+  "updatedAt": "2026-11-16T20:09:54.061Z",
   "licenses": [
     {
-      "key": "LOJA-MATRIZ-2026",
-      "storeName": "Loja do Cliente A",
+      "key": "KJSKAJSDKAJSDPOJ",
+      "storeName": "Unidade Principal",
       "status": "active",
-      "expiresAt": "2027-12-31"
+      "plan": "Profissional PDV",
+      "expiresAt": "2026-11-28",
+      "maxTerminals": 5,
+      "notes": "Licença ativa"
     }
   ]
 }
